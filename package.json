@@ -1,0 +1,12 @@
+{
+  "name": "placard",
+  "version": "0.0.1",
+  "description": "A javascript {{mustache}} inspired templating framework for generating un-conventional dynamic SVGs and images",
+  "main": "./app.js",
+  "dependencies": {
+    "gm": "^1.23.0",
+    "moment": "^2.17.1",
+    "mustache": "^2.3.0"
+  },
+  "license": "MIT"
+}
