@@ -1,10 +1,9 @@
 var matchSide = class MatchSide {
-  constructor(doc) {
-    this.thumbnail = '';
-    this.name = 'Side Name';
-    this.members = null;
-    this.cheersCount = 2;
+  constructor(side) {
+    this.thumbnail = side.thumbnail;
+    this.name = side.name || 'Side Name';
+    this.members = side.members;
   }
-}
+};
 
 module.exports = matchSide;

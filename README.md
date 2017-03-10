@@ -1,2 +1,2 @@
 # placard
-A javascript {{mustache}} inspired templating framework for generating un-conventional dynamic SVGs and images
+A javascript declarative CSS FlexBox (Flexible Layout) based layout manager for generating dynamic SVGs and images

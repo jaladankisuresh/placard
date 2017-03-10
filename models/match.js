@@ -18,6 +18,6 @@ var match = class Match {
         return;
     }
   }
-}
+};
 
 module.exports = match;

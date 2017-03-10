@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" height="630" style="background-color:#eeeeee" width="1200" flex-css="padding: 20;flex-direction: row;;width:1200;height:630" x="0" y="0">
+  <title x="20" y="20" width="0" height="590">Placard Template SVG</title>
+  <defs x="20" y="20" width="0" height="590">
+    <style x="0" y="0" width="0" height="0">
+      @font-face {
+        font-family: Roboto;
+        src: url('./fonts/Roboto-Black.ttf');
+      }
+      text {
+        font-size:14px;font-family: Roboto, sans-serif;fill:#000000;
+      }
+    </style>
+    <mask maskUnits="userSpaceOnUse" id="imgUsrThumbnailClipPath" x="0" y="0" width="0" height="0">
+      <circle r="30" cy="30" cx="30" style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" x="0" y="0" width="0" height="0"/>
+     </mask>
+  </defs>
+  <!--<rect flex-css="position-type: absolute;width:100%;height:100%"
+     style="fill:none;stroke:#000000;stroke-width:0.29569024;stroke-opacity:1" />-->
+  <svg class="left-column-layout" flex-css="padding-top:10;padding-left:10;padding-bottom:10;flex-direction: column;flex: 1;" x="20" y="20" width="292.5" height="590">
+    <svg flex-css="flex-direction: column;flex:none;align-items:center;justify-content:center;aspect-ratio:1;" x="10" y="10" width="282.5" height="282.5">
+      <rect flex-css="position-type: absolute;width:100%;height:100%" style="fill:#40e0d0;stroke-width:0.5" x="0" y="0" width="282.5" height="282.5"/>
+      <image xlink:href="./assets/icons/nerd.png" flex-css="height:60; width :60;" x="111.25" y="111.25" width="60" height="60"/>
+    </svg>
+    <svg class="left-column-bottom-layout" style="background-color:#fafbfc" flex-css="flex:1;margin-top:10;flex-direction: column;align-items:center" x="10" y="302.5" width="282.5" height="277.5">
+      <rect flex-css="position-type: absolute;width:100%;height:100%" style="fill:#fafbfc;stroke:#000000;stroke-width:0.5;stroke-opacity:1" x="0" y="0" width="282.5" height="277.5"/>
+         <text xml:space="preserve;" flex-css="margin-top:20" style="font-size:30" x="109.75" y="50" width="63" height="22">MAR</text>
+         <text xml:space="preserve;" flex-css="margin-top:10" style="font-size:30" x="133.25" y="82" width="16" height="22">2</text>
+    </svg>
+  </svg>
+  <svg class="right-column-layout" flex-css="padding:10;flex-direction: column;flex: 3;" x="312.5" y="20" width="867.5" height="590">
+    <svg flex-css="flex-direction: column;flex: 2 0 auto;" x="10" y="10" width="847.5" height="243">
+      <rect flex-css="position-type: absolute;width:100%;height:100%" style="fill:#fafbfc;stroke:#000000;stroke-width:0.5;stroke-opacity:1" x="0" y="0" width="847.5" height="243"/>
+      <svg flex-css="flex-direction: row;align-items: center;margin-top:20;padding:10;justify-content:space-between;" x="0" y="20" width="847.5" height="50">
+        <text xml:space="preserve" style="font-size:30" x="10" y="40" width="374" height="30">Smileys Icons from FlatIcon</text>
+        <text xml:space="preserve" x="738.5" y="33.5" width="99" height="11">MAKE SMILEYS</text>
+      </svg>
+      <svg flex-css="flex-direction: row; align-items: center;padding:10;justify-content:space-between;" x="0" y="70" width="847.5" height="33">
+        <text x="10" y="24" width="225" height="13">Mar 2 2017, 9:15 AM | FlatIcon.com</text>
+        <text x="776.5" y="25" width="61" height="11">15 Smiles</text>
+      </svg>
+      <svg flex-css="flex-direction: row;padding:10;" x="0" y="103" width="847.5" height="140">
+        <!--<text>FlatIcon.com</text>-->
+        <svg flex-css="flex-direction: row;justify-content:flex-end;flex-wrap:wrap" x="10" y="10" width="827.5" height="120">
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="47.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="107.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="167.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="227.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="287.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="347.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="407.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="467.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="527.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="587.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="647.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="707.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="767.5" y="0" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="707.5" y="60" width="60" height="60"/>
+          <image xlink:href="./assets/icons/happy.png" flex-css="height:60; width :60;" x="767.5" y="60" width="60" height="60"/>
+        </svg>
+      </svg>
+    </svg>
+    <svg flex-css="flex:5" x="10" y="253" width="847.5" height="327">
+      <svg flex-css="flex-direction: row;margin-top:10;justify-content:center;height:60; flex: none;" x="0" y="10" width="847.5" height="60">
+        <svg flex-css="flex-direction: column;justify-content:center;align-items:center;flex: 1;" x="0" y="0" width="423.75" height="60">
+          <rect flex-css="position-type: absolute;width:100%;height:100%" style="fill:#fafbfc;stroke:#000000;stroke-width:0.5;stroke-opacity:1" x="0" y="0" width="423.75" height="60"/>
+          <text x="191.875" y="38.5" width="40" height="11">Side A</text>
+        </svg>
+        <svg flex-css="flex-direction: column;justify-content:center;align-items:center;flex: 1;" x="423.75" y="0" width="423.75" height="60">
+          <rect flex-css="position-type: absolute;width:100%;height:100%" style="fill:#fafbfc;stroke:#000000;stroke-width:0.5;stroke-opacity:1" x="0" y="0" width="423.75" height="60"/>
+          <text x="191.875" y="38.5" width="40" height="11">Side B</text>
+        </svg>
+      </svg>
+      <svg flex-css="flex-direction: row;margin-top:10;justify-content:center;flex: 5;" x="0" y="80" width="847.5" height="247">
+        <svg flex-css="flex-direction: column;flex: 1;" x="0" y="0" width="423.75" height="247">
+          <rect flex-css="position-type: absolute;width:100%;height:100%" style="fill:#fafbfc;stroke:#000000;stroke-width:0.5;stroke-opacity:1" x="0" y="0" width="423.75" height="247"/>
+        </svg>
+        <svg flex-css="flex-direction: column;flex: 1;" x="423.75" y="0" width="423.75" height="247">
+          <rect flex-css="position-type: absolute;width:100%;height:100%" style="fill:#fafbfc;stroke:#000000;stroke-width:0.5;stroke-opacity:1" x="0" y="0" width="423.75" height="247"/>
+        </svg>
+        <image x="50%" y="50%" width="60" height="60" xlink:href="./assets/icons/disappointed.png"/>
+      </svg>
+      <image x="10%" y="10%" width="60" height="60" xlink:href="./assets/icons/confused.png"/>
+      <image x="60%" y="10%" width="60" height="60" xlink:href="./assets/icons/smiling.png"/>
+    </svg>
+  </svg>
+</svg>
