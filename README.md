@@ -192,7 +192,7 @@ Icons made by [Roundicons](http://www.flaticon.com/authors/roundicons) from [Fla
 
 # Contribute
 You are welcome to do a pull request. It would greatly help this module if it could find more contributors to build it and test it.
-Alternatively, If you are using placard in your work, you could share how you are using it.
+Alternatively, If you are using placard in your work, you may share how you are using it.
 
 # License
 open sourced with [MIT](./License.md) license
