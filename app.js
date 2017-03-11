@@ -75,9 +75,7 @@ gm(svgLayoutCompleteBuffer)
   }
     console.log('image converted.');
 });
-*/
 
-/*
 // node.js module that converts svg to png using phantomjs
 svg2png(svgLayoutCompleteString)
   .then(buffer => {
