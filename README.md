@@ -187,7 +187,13 @@ This is the standard behaviour for child elements in SVG. All the children of <S
 </svg>
 ```
 
+# Side Affects
+You could generate PNG images from SVG using npm modules like
+1. [gm](https://github.com/aheckmann/gm)
+2. [svg2png](https://github.com/domenic/svg2png)
+
 # Attribution
+Inspired by [Scott Logic Blog](http://blog.scottlogic.com/2015/02/02/svg-layout-flexbox.html) By Colin Eberhardt  
 Icons made by [Roundicons](http://www.flaticon.com/authors/roundicons) from [Flaticon](http://www.flaticon.com) is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 # Contribute
