@@ -1,5 +1,5 @@
 # placard
-A javascript CSS FlexBox (Flexible Layout) based declarative layout managers for generating dynamic SVGs and images. Implemented using [{{mustache}}](https://github.com/janl/mustache.js/) and [yoga](https://github.com/facebook/yoga)
+A javascript CSS FlexBox (Flexible Layout) based declarative layout managers for generating dynamic SVGs and images. Its been designed for adding dynamic media content to **Posters, Flyers, Placards or anyother digital prints** generated through Photoshop or Pixlr like SVG generating apps. Implemented using [{{mustache}}](https://github.com/janl/mustache.js/) and [yoga](https://github.com/facebook/yoga).  
 
 #### Re-define how and where you are using SVGs 
 SVGs are great for displaying vector graphics and for data visualizations like graphs, charts. But, With its XML format and CSS styling it could be used in diverse use cases. [Placard](https://github.com/jaladankisuresh/placard) is built leveraging its serialized data representation structure (i.e XML and CSS) that is easy to manipulate dynamically; 
@@ -9,7 +9,7 @@ Using it as data-driven template and layout manager
 - [Yoga](https://github.com/facebook/yoga) [CSS FlexBox based layout engine] for dynamically positioning elements in the SVG 
 
 # Usage
-Placard Libarary uses [Yoga](https://github.com/facebook/yoga) under-the-hood for generating layouts, and for calculating elements X, Y WIDTH and HEIGHT properties. However, unlike Yoga which follows [camelCase](https://facebook.github.io/yoga/docs/flex-direction/) naming convention, Placard follows [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) naming standards. 
+Placard Libarary uses [Yoga](https://github.com/facebook/yoga) under-the-hood for generating layouts, and for calculating X, Y, WIDTH and HEIGHT attributes for XML elements. However, unlike Yoga which follows [camelCase](https://facebook.github.io/yoga/docs/flex-direction/) naming convention, Placard follows [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) naming standards. 
 
 Placard implements the following CSS FlexBox properties; *It mostly likely has one-to-one mapping with every Yoga Flex property*  
   
