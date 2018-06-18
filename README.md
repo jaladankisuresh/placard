@@ -1,5 +1,5 @@
 # placard
-A javascript CSS FlexBox (Flexible Layout) based declarative layout managers for generating dynamic SVGs and images. Its been designed for adding dynamic media content to **Posters, Flyers, Placards or anyother digital prints** generated through Photoshop or Pixlr like SVG generating apps. Implemented using [{{mustache}}](https://github.com/janl/mustache.js/) and [yoga](https://github.com/facebook/yoga).  
+A javascript CSS FlexBox (Flexible Layout) based declarative layout managers for generating dynamic SVGs and images. Its been designed for adding dynamic media content to **Posters, Flyers, Placards or anyother digital prints** generated through Photoshop or Pixlr like SVG generating apps. Built using [{{mustache}}](https://github.com/janl/mustache.js/) and [yoga](https://github.com/facebook/yoga).  
 
 #### Re-define how and where you are using SVGs 
 SVGs are great for displaying vector graphics and for data visualizations like graphs, charts. But, With its XML format and CSS styling it could be used in diverse use cases. [Placard](https://github.com/jaladankisuresh/placard) is built leveraging its serialized data representation structure (i.e XML and CSS) that is easy to manipulate dynamically; 
